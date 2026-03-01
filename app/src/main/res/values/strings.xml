@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="grade_calculator">Grade Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="student_name">Student Name</string>
+    <string name="mathematics_score">Mathematics Score</string>
+    <string name="science_score">Science Score</string>
+    <string name="english_score">English Score</string>
+</resources>
