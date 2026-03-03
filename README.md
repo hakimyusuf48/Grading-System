@@ -1,4 +1,4 @@
-# Grading-System
+# GradingSystem
 
 This is project I made on second year of my Software Engineering degree. The project is just a grading system app using Android Studio and Java as the choosen langauge for logic and dealing with XML for the design.
 
